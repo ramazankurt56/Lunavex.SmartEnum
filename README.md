@@ -1,4 +1,4 @@
-# Lunavex.Result NuGet Package
+# Lunavex.SmartEnum NuGet Package
 
 ## Overview
 The `Lunavex.SmartEnum` package offers a powerful solution for managing enumerations in .NET applications. This library provides an easy way to define and use strongly-typed enumerations, improving code readability and maintainability. It simplifies enumeration handling and allows developers to work more efficiently and safely with enumerated values in their projects. 
